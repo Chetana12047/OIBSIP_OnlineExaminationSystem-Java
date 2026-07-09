@@ -22,7 +22,6 @@ This project simulates an online examination platform where users can:
 - Java
 - Java Swing
 - Object-Oriented Programming (OOP)
-- VS Code
 
 ---
 
